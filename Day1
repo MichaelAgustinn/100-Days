@@ -3,7 +3,7 @@ package Day1;
 public class Day1 {
 
     public static void main(String[] args) {
-        System.out.println("miky");
+System.out.println("Menampilkan Data Dan Membuat Konentar");
 //        ini komentar
     }
 }

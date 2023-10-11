@@ -8,6 +8,8 @@ public class Day3 {
         int beratBadan = 34;
         int umur = 12;
         boolean status = false;
+        String nama = "BukanMiky";
+        System.out.println(nama);
         System.out.println(tinggi_badan);
         System.out.println(beratBadan);
         System.out.println(umur);

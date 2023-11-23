@@ -108,7 +108,6 @@ public class Day46 {
         }else {
             System.out.println("Tolong Masukkan Pilihan Yang Tersedia");
         }
-        Scanner close;
         
         System.out.println("Punya Kartu Member?(yes/no)");
         in.nextLine();
